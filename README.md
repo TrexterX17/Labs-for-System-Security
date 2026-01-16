@@ -1,2 +1,2 @@
 # Labs-for-System-Security
-These are my different labs which helped me gain hands on expeirence and various red and blue team activity.
+Here are my various labs that helped me gain hands-on experience and insights about different blue and red team activities.
