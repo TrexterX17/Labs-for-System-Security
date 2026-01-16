@@ -1,11 +1,7 @@
 # Lab 02: pfSense Router Configuration & Network Segmentation
 
-## 📋 Lab Overview
-
-**Course:** EAS 595 - System Security  
-**Lab Title:** Introduction to Networking  
+## 📋 Lab Overview 
 **Difficulty Level:** Intermediate  
-**Completion Date:** Fall 2024
 
 ### Objective
 This lab demonstrates advanced network infrastructure skills by deploying and configuring a pfSense firewall/router to create segmented networks, establishing proper routing between network segments, and implementing an Intrusion Detection System (IDS) using Suricata. This lab simulates enterprise network architecture with multiple security zones.
@@ -815,8 +811,3 @@ All screenshots demonstrating successful completion are documented in the origin
 - **Solution:** Set DNS servers (8.8.8.8, 8.8.4.4) in network config
 
 ---
-
-**Lab Completed By:** Faraz Ahmed  
-**Institution:** University at Buffalo (assumed)  
-**Course:** EAS 595 - System Security  
-**Instructor:** Prof. Kevin Cleary
