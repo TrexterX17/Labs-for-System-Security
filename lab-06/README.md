@@ -1040,3 +1040,20 @@ Solution:
 ```
 
 ---
+## 📋 Incident Report Summary
+
+**INCIDENT #:** 2024-032  
+**CLASSIFICATION:** CAT 2 - Unauthorized Access  
+**SEVERITY:** High  
+**STATUS:** Closed/Resolved  
+**INVESTIGATOR:** Faraz Ahmed  
+**DATE:** Winter 2025
+
+**EXECUTIVE SUMMARY:**
+Security breach involving brute force authentication attack, unauthorized account creation, and malware installation with persistence mechanisms. All malicious artifacts successfully removed. System integrity verified. Comprehensive security recommendations provided to prevent future incidents.
+
+**BUSINESS IMPACT:** Medium functional impact (system management impaired), Low information impact (no confirmed data exfiltration), Supplemented recoverability (manual intervention required).
+
+**REMEDIATION:** Complete. Unauthorized user removed, IFEO hijack eliminated, malware eradicated, system integrity validated.
+
+**RECOMMENDATIONS:** Implement password policy, multi-factor authentication, EDR solution, security awareness training, and SIEM for continuous monitoring.
