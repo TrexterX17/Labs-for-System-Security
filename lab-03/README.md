@@ -1,11 +1,9 @@
 # Lab 03: Firewall Configuration & Access Control
 
 ## 📋 Lab Overview
-
-**Course:** EAS 595 - System Security  
-**Lab Title:** Firewalls  
+  
 **Difficulty Level:** Intermediate/Advanced  
-**Completion Date:** September 18th, 2024
+
 
 ### Objective
 This lab demonstrates advanced firewall configuration skills by implementing granular access control policies on pfSense, creating inbound and outbound firewall rules, establishing least-privilege administrative access, and testing rule effectiveness through systematic validation. This simulates real-world security operations where network access must be tightly controlled while maintaining business functionality.
